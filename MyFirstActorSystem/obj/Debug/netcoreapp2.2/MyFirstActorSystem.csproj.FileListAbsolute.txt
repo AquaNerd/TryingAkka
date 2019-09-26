@@ -1,0 +1,11 @@
+C:\Repos\TryingAkka\MyFirstActorSystem\bin\Debug\netcoreapp2.2\MyFirstActorSystem.deps.json
+C:\Repos\TryingAkka\MyFirstActorSystem\bin\Debug\netcoreapp2.2\MyFirstActorSystem.runtimeconfig.json
+C:\Repos\TryingAkka\MyFirstActorSystem\bin\Debug\netcoreapp2.2\MyFirstActorSystem.runtimeconfig.dev.json
+C:\Repos\TryingAkka\MyFirstActorSystem\bin\Debug\netcoreapp2.2\MyFirstActorSystem.dll
+C:\Repos\TryingAkka\MyFirstActorSystem\obj\Debug\netcoreapp2.2\MyFirstActorSystem.csprojAssemblyReference.cache
+C:\Repos\TryingAkka\MyFirstActorSystem\obj\Debug\netcoreapp2.2\MyFirstActorSystem.csproj.CoreCompileInputs.cache
+C:\Repos\TryingAkka\MyFirstActorSystem\obj\Debug\netcoreapp2.2\MyFirstActorSystem.AssemblyInfoInputs.cache
+C:\Repos\TryingAkka\MyFirstActorSystem\obj\Debug\netcoreapp2.2\MyFirstActorSystem.AssemblyInfo.cs
+C:\Repos\TryingAkka\MyFirstActorSystem\bin\Debug\netcoreapp2.2\MyFirstActorSystem.pdb
+C:\Repos\TryingAkka\MyFirstActorSystem\obj\Debug\netcoreapp2.2\MyFirstActorSystem.dll
+C:\Repos\TryingAkka\MyFirstActorSystem\obj\Debug\netcoreapp2.2\MyFirstActorSystem.pdb

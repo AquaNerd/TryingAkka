@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Repos\\TryingAkka\\MyFirstActorSystem\\MyFirstActorSystem.csproj": {}
+  },
+  "projects": {
+    "C:\\Repos\\TryingAkka\\MyFirstActorSystem\\MyFirstActorSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repos\\TryingAkka\\MyFirstActorSystem\\MyFirstActorSystem.csproj",
+        "projectName": "MyFirstActorSystem",
+        "projectPath": "C:\\Repos\\TryingAkka\\MyFirstActorSystem\\MyFirstActorSystem.csproj",
+        "packagesPath": "C:\\Users\\dan.umstattd\\.nuget\\packages\\",
+        "outputPath": "C:\\Repos\\TryingAkka\\MyFirstActorSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dan.umstattd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/sqappdev/_packaging/AppDevNuget/nuget/v3/index.json": {},
+          "https://selectquotebi.pkgs.visualstudio.com/_packaging/Common/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Akka": {
+              "target": "Package",
+              "version": "[1.3.15, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
